@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: 'Rob Harris Front End Web Developer from Canterbury, Kent'
+title: Rob Harris - Freelance Web Developer
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: >-
+  Currently employed as a front end web developer by FINALLY Agency in
+  Canterbury, Kent
 mainpitch:
   title: Why Kaldi
   description: >
