@@ -1,18 +1,25 @@
 ---
 templateKey: index-page
-title: Rob Harris - Freelance Web Developer
+title: 'Freelance web development & design in Canterbury, Kent.'
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: >-
-  Currently employed as a front end web developer by FINALLY Agency in
-  Canterbury, Kent
+  Hello, I’m Rob Harris a full time web developer currently employed by FINALLY
+  Agency, a full service marketing agency in Canterbury, Kent. Outside of work
+  hours I help companies develop and grow their digital products.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: About
+  description: >-
+    I offer a wide variety of web design, web development and digital marketing
+    solutions. Over the years since graduating with a BA (Hons) degree in
+    Digital Media Design I have helped clients transform their ideas and
+    requirements into a website that not only exceeds their expectations but has
+    helped their businesses and online presence grow.
+
+
+    Not only do I create mobile responsive websites that are SEO friendly and
+    perform well. I also offer long-term support, SEO audits, and hosting /
+    domain services. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
