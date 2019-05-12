@@ -15,8 +15,6 @@ mainpitch:
     Digital Media Design I have helped clients transform their ideas and
     requirements into a website that not only exceeds their expectations but has
     helped their businesses and online presence grow.
-
-
     Not only do I create mobile responsive websites that are SEO friendly and
     perform well. I also offer long-term support, SEO audits, and hosting /
     domain services.
